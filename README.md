@@ -1,6 +1,6 @@
 ### Pokémon Search 
- Bom eu resolvi fazer um projeto bem simples com o tema do Pokémon, para poder treinar meus conceitos de HTML, CSS E JAVA SCRIPT.</br>
- Esse banco de Pokémons utilizados no projeto, eu peguei do site https://pokeapi.co .  </br>
- Ainda estou pensando em fazer algumas mudanças, mas a princípio é isso, espero que gostem :)
+Well I decided to make a very simple project with the Pokémon theme, to train my concepts of HTML, CSS AND JAVA SCRIPT.</br>
+ This bank of Pokémon used in the project, I got it from https://pokeapi.co . </br>
+ I'm still thinking about making some changes, but that's it for the first time, hope you like it :)
  
- (Vou estar disponibilizando um link no meu perfil, pra um site onde está rodando o meu projeto!) 
+ (I'll be providing a link on my profile, to a site where my project is running!)
